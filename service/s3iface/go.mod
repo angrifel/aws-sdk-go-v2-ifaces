@@ -1,4 +1,4 @@
-module s3iface
+module github.com/angrifel/aws-sdk-go-v2-ifaces/service/s3iface
 
 go 1.20
 
